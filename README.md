@@ -1,2 +1,2 @@
 # SWE573Fall16_TaygunGokdemir
-Software Development Practice
+Repository for SWE 573 Software Development Practice
