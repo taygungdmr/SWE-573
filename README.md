@@ -1,4 +1,4 @@
-#Repository for the "Health Watch" project
+#Repository for the "Health Watch" project, Bogazici University SWE 573 Fall 2016
 
 The analysis document (requirements, mock-up screns etc.) can be found in the link below:
 
