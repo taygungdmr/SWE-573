@@ -1,5 +1,9 @@
 # SWE573Fall16_TaygunGokdemir
-Repository for the "Health Tracker" project
+Repository for the "Health Watch" project
+
+The analysis document (requirements, mock-up screns etc.) can be found in the link below:
+
+https://onedrive.live.com/view.aspx?resid=C30E3D569DF52CA1!878&app=Word
 
 The following equivalients will be included as functional features:
 
