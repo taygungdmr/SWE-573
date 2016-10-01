@@ -1,5 +1,4 @@
-# SWE573Fall16_TaygunGokdemir
-Repository for the "Health Watch" project
+#Repository for the "Health Watch" project
 
 The analysis document (requirements, mock-up screns etc.) can be found in the link below:
 
