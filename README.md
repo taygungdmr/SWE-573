@@ -2,7 +2,7 @@
 
 The analysis document (requirements, mock-up screns etc.) can be found in the link below:
 
-https://1drv.ms/w/s!AqEs9Z1WPQ7DhnS4X38YaAPpWEq8
+https://1drv.ms/w/s!AqEs9Z1WPQ7DhnaBKP3Wr8h737lG
 
 The following equivalients will be included as functional features:
 
