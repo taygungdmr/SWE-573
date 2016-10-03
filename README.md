@@ -2,9 +2,7 @@
 
 The analysis document (requirements, mock-up screns etc.) can be found in the link below:
 
-Note: Please select "View Tab > Reading View" after you open the document for an appropriate experience.
-
-https://onedrive.live.com/edit.aspx?cid=c30e3d569df52ca1&page=view&resid=C30E3D569DF52CA1!884&parId=C30E3D569DF52CA1!877&app=Word
+https://1drv.ms/w/s!AqEs9Z1WPQ7DhnS4X38YaAPpWEq8
 
 The following equivalients will be included as functional features:
 
