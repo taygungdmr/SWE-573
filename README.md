@@ -2,7 +2,7 @@
 
 The software project plan - time estimated and actual effort -  for Health Watch app can be found via the link below:
 
-https://1drv.ms/u/s!AqEs9Z1WPQ7DhnzOWB4nRf-EQRIk
+https://1drv.ms/b/s!AqEs9Z1WPQ7Dhn_HECg8myxEjuW9
 
 The analysis document (requirements, mock-up screns etc.) can be found via the link below:
 
