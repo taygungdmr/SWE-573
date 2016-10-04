@@ -6,7 +6,7 @@ https://1drv.ms/u/s!AqEs9Z1WPQ7DhnzOWB4nRf-EQRIk
 
 The analysis document (requirements, mock-up screns etc.) can be found via the link below:
 
-https://1drv.ms/w/s!AqEs9Z1WPQ7DhnoBKODWDvh-mOhg
+https://1drv.ms/w/s!AqEs9Z1WPQ7Dhn3AbB9QpSTUsCk1
 
 The following equivalients will be included as functional features:
 
