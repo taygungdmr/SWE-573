@@ -1,5 +1,9 @@
 #Repository for the "Health Watch" project, Bogazici University SWE 573 Fall 2016
 
+The software project plan - time estimated and actual effort -  for Health Watch app can be found via the link below:
+
+https://1drv.ms/u/s!AqEs9Z1WPQ7DhnzOWB4nRf-EQRIk
+
 The analysis document (requirements, mock-up screns etc.) can be found via the link below:
 
 https://1drv.ms/w/s!AqEs9Z1WPQ7DhnoBKODWDvh-mOhg
