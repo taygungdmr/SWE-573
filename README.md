@@ -4,6 +4,8 @@ Brief description of the "Health Watch" project can be found on <a href="https:/
 
 High-level requirements can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Requirements">here</a>.
 
+<a href="https://1drv.ms/b/s!AqEs9Z1WPQ7Dhn_HECg8myxEjuW9">Software Project Plan</a>
+
 Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a> page.
 
 The following equivalients will be included as functional features:
