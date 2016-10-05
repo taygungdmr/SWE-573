@@ -1,12 +1,6 @@
 #Repository for the "Health Watch" project, Bogazici University SWE 573 Fall 2016
 
-The software project plan - time estimated and actual effort -  for Health Watch app can be found via the link below:
-
-https://1drv.ms/b/s!AqEs9Z1WPQ7Dhn_HECg8myxEjuW9
-
-The analysis document (requirements, mock-up screns etc.) can be found via the link below:
-
-https://1drv.ms/w/s!AqEs9Z1WPQ7Dhn3AbB9QpSTUsCk1
+Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a> page.
 
 The following equivalients will be included as functional features:
 
