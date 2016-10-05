@@ -8,7 +8,7 @@ High-level requirements can be found on <a href="https://github.com/taygungdmr/S
 
 Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a>
 
-The following equivalients will be included as functional features:
+#The following equivalients will be included as functional features:
 
 1 - BMI & Calorie Calculation
 
