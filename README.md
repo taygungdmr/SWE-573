@@ -10,7 +10,7 @@ Mock Up designs and annotations related can be found on <a href="https://github.
 
 #The following equivalients will be included as functional features:
 
-1 - BMI & Calorie Calculation
+1 - BMI & Ideal Weight Calculation
 
 2 - Daily activity and meals had by the user will be entered as input
 
