@@ -1,12 +1,12 @@
 #Repository for the "Health Watch" project, Bogazici University SWE 573 Fall 2016
 
-Brief description of the "Health Watch" project can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Health-Watch-Project,-Bogazici-University-Fall-2016">Abstract</a> page.
+Brief description of the "Health Watch" project can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Health-Watch-Project,-Bogazici-University-Fall-2016">Abstract</a> 
 
 High-level requirements can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Requirements">here</a>.
 
 <a href="https://1drv.ms/b/s!AqEs9Z1WPQ7Dhn_HECg8myxEjuW9">Software Project Plan</a>
 
-Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a> page.
+Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a>
 
 The following equivalients will be included as functional features:
 
