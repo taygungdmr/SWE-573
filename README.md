@@ -1,6 +1,6 @@
 #Repository for the "Health Watch" project, Bogazici University SWE 573 Fall 2016
 
-Brief description of the "Health Watch" project can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Health-Watch-Project,-Bogazici-University-Fall-2016">Abstract</a> 
+Brief description of the **"Health Watch"** project can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Health-Watch-Project,-Bogazici-University-Fall-2016">Abstract</a> 
 
 High-level requirements can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Requirements">here</a>.
 
