@@ -12,11 +12,9 @@ Mock Up designs and annotations related can be found on <a href="https://github.
 
 1 - BMI & Calorie Calculation
 
-2 - Lifestyle selection for an appropriate take on activity habits
+2 - Daily activity and meals had by the user will be entered as input
 
-3 - Daily activity and meals had by the user will be entered as input
-
-3 - Age, sex, weight, height information will be asked by the user in metric units
+3 - Age, sex, weight, height information will be asked from the user in metric units
 
 4 - Goal-oriented form of user experience will be presented on the application to encourage the user to achieve his/her ideal weight
 
