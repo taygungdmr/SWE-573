@@ -4,7 +4,7 @@ Brief description of the **"Health Watch"** project can be found on <a href="htt
 
 High-level requirements can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Requirements">here</a>.
 
-<a href="https://1drv.ms/b/s!AqEs9Z1WPQ7DhwDS73RQmC9PZiBK">Software Project Plan</a>
+<a href="https://onedrive.live.com/?cid=C30E3D569DF52CA1&id=C30E3D569DF52CA1%21961&parId=C30E3D569DF52CA1%21877&o=OneUp">Software Project Plan</a>
 
 Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a>
 
