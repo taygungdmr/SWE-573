@@ -2,7 +2,7 @@
 
 The Design Document for Health Watch project can be found  <a href="https://1drv.ms/w/s!AqEs9Z1WPQ7Dh0R9wx3ukDRJ6Nc2">here</a>.
 
-Detailed information for the "Health Watch" project can be access on the associated <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/%22Health-Watch%22-Project,-Bogazici-University-Fall-2016">Wiki</a> page.
+Detailed information for the "Health Watch" project can be access through the associated <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/%22Health-Watch%22-Project,-Bogazici-University-Fall-2016">Wiki</a> page.
 
 Mock Up designs and annotations related can be found on <a href="https://github.com/taygungdmr/SWE573Fall16_TaygunGokdemir/wiki/Mock-Up-Design-&-Annotation">Mock Up Design</a>
 
